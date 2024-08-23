@@ -13,12 +13,12 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-<h2 align="center">About Me <br>
+<h2 align="center">About Me </h2>
 
-<p>Kamusta fellow coder! I'm **Yna**, an IT student eager to dive into the world of technology and innovation.</p></h2>
+<p align="center">Kamusta fellow coder! I'm Yna, an IT student eager to dive into the world of technology and innovation.</p>
 <br>
 
-### 🤝 Let's Connect
+### Connect
 Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech. Reach me here:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='20' target='_blank'>](https://discord.gg/KpET2wPD) &nbsp;
@@ -26,7 +26,7 @@ Feel free to reach out if you want to collaborate on a project, discuss ideas, o
 
 <br>
 
-### 💬 Fun Fact
+### Fun Fact
 When I’m not coding, you can find me jogging, boxing, reading a book in a library, playing different instruments like guitar, ukulele, and piano. 
 
 <br>
