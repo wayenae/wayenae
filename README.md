@@ -19,7 +19,7 @@
 
 
 ### Connect
-Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech. Reach me <a href="mailto:school.degrano@gmail.com">here.</a>
+Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech. Reach me <a href="mailto:school.degrano@gmail.com" style='color:fe019a;'>here.</a>
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='20' target='_blank'>](https://discord.gg/KpET2wPD) &nbsp;
 [<a href="mailto:school.degrano@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20' target='_blank'>]()-->
