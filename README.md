@@ -5,17 +5,17 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Hi+Peeps!;I'm+Yna+;A+Web+Developer;Let's+Learn+Together!+&center=true&size=30&color=fe019a">
   </a>
-</h1>
+</div>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-<h3 align="center">About Me </h3>
+<h2 align="center">About Me </h2>
 
-<p align="center">Kamusta fellow coder! I'm Yna, an IT student eager to dive into the world of technology and innovation.</p>
+<p align="justify">Kamusta fellow coder! I'm Yna, an IT student eager to dive into the world of technology and innovation.</p>
 
 
 - 📫 Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech <a href="mailto:school.degrano@gmail.com" style="color:fe019a;">here.</a>
@@ -28,7 +28,7 @@
 
 <br>
 <div> 
-  <h3 align="center">Skills and Tools Used</h3>
+  <h2 align="center">Skills and Tools Used</h2>
 <h4 align="left">Front-end</h4>
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=12)](https://skillicons.dev)<br>
