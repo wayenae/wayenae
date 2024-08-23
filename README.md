@@ -1,6 +1,11 @@
-## Hi there 👋
+<p align="center">
+ <!-- <img width="200px"  src="https://logos-world.net/wp-content/uploads/2021/08/Gryffindor-Logo.png"  /> -->
+  <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
+</p>
 
-<!--
+<!--## Hi there 👋
+
+
 **wayenae/wayenae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
