@@ -16,7 +16,7 @@
 <h2 align="center">About Me </h2>
 
 <p align="center">Kamusta fellow coder! I'm Yna, an IT student eager to dive into the world of technology and innovation.</p>
-<br>
+
 
 ### Connect
 Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech. Reach me here:
@@ -24,7 +24,6 @@ Feel free to reach out if you want to collaborate on a project, discuss ideas, o
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='20' target='_blank'>](https://discord.gg/KpET2wPD) &nbsp;
 [<a href="mailto:school.degrano@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20' target='_blank'>]()
 
-<br>
 
 ### Fun Fact
 When I’m not coding, you can find me jogging, boxing, reading a book in a library, playing different instruments like guitar, ukulele, and piano. 
