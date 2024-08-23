@@ -39,9 +39,9 @@
                 <th><h4>Photo Editing</h4></th>
             </tr>
         </thead>
-        <tbody align="center">
+        <tbody>
             <tr>
-                <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=5" alt="Front-end Skills"></a></td>
+                <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=5" alt="Front-end Skills"></a></td>
                 <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=5" alt="Back-end and Database Skills"></a></td>
                 <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,sublime,vscode,&theme=dark&perline=5" alt="Tools Used"></a></td>
                 <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=5" alt="Photo Editing"></a></td>
