@@ -41,10 +41,10 @@
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: center; padding: 0; border: 2px solid #fe019a;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=2" alt="Front-end Skills" style="max-width: 100%; height: auto;"></a></td>
-            <td style="text-align: center; padding: 0; border: 2px solid #fe019a;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=3" alt="Back-end and Database Skills" style="max-width: 100%; height: auto;"></a></td>
-            <td style="text-align: center; padding: 0; border: 2px solid #fe019a;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,sublime,vscode,&theme=dark&perline=3" alt="Tools Used" style="max-width: 100%; height: auto;"></a></td>
-            <td style="text-align: center; padding: 0; border: 2px solid #fe019a;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=2" alt="Photo Editing" style="max-width: 100%; height: auto;"></a></td>
+            <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=2" alt="Front-end Skills" style="max-width: 100%;"></a></td>
+            <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=3" alt="Back-end and Database Skills" style="max-width: 100%; height: auto;"></a></td>
+            <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,sublime,vscode,&theme=dark&perline=3" alt="Tools Used" style="max-width: 100%; height: auto;"></a></td>
+            <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=2" alt="Photo Editing" style="max-width: 100%; height: auto;"></a></td>
         </tr>
     </tbody>
 </table>
