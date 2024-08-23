@@ -30,24 +30,25 @@
 
 
 <h2 align="center">Skills and Tools Used</h2>
-    <table style="width: 100%; border-collapse: collapse; margin: 0 auto;" align="center">
+    <table style="width: 100%; border-collapse: collapse; margin: 0 auto; border: none;">
     <thead>
         <tr>
-            <th style="text-align: center;"><h4>Front-end</h4></th>
-            <th style="text-align: center;"><h4>Back-end and Database</h4></th>
-            <th style="text-align: center;"><h4>Tools Used</h4></th>
-            <th style="text-align: center;"><h4>Photo Editing</h4></th>
+            <th style="text-align: center; padding: 0;"><h4>Front-end</h4></th>
+            <th style="text-align: center; padding: 0;"><h4>Back-end and Database</h4></th>
+            <th style="text-align: center; padding: 0;"><h4>Tools Used</h4></th>
+            <th style="text-align: center; padding: 0;"><h4>Photo Editing</h4></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=2" alt="Front-end Skills" style="max-width: 100%; height: auto;"></a></td>
-            <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=3" alt="Back-end and Database Skills" style="max-width: 100%; height: auto;"></a></td>
-            <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,sublime,vscode,&theme=dark&perline=3" alt="Tools Used" style="max-width: 100%; height: auto;"></a></td>
-            <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=2" alt="Photo Editing" style="max-width: 100%; height: auto;"></a></td>
+            <td style="text-align: center; padding: 0;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=2" alt="Front-end Skills" style="max-width: 100%; height: auto;"></a></td>
+            <td style="text-align: center; padding: 0;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=3" alt="Back-end and Database Skills" style="max-width: 100%; height: auto;"></a></td>
+            <td style="text-align: center; padding: 0;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,sublime,vscode,&theme=dark&perline=3" alt="Tools Used" style="max-width: 100%; height: auto;"></a></td>
+            <td style="text-align: center; padding: 0;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=2" alt="Photo Editing" style="max-width: 100%; height: auto;"></a></td>
         </tr>
     </tbody>
 </table>
+
 
     
  ![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)   
