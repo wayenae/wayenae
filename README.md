@@ -47,6 +47,8 @@
 
 </div>
 
+![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
+
 <!--
 <div align="center">
  
@@ -57,9 +59,9 @@
 
 </div>
 
--->
 
-![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
+
+![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)-->
 
 <br><br>
 
