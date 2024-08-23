@@ -13,12 +13,12 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-<h2 align="center">About Me </h2>
+<h3 align="center">About Me </h3>
 
 <p align="center">Kamusta fellow coder! I'm Yna, an IT student eager to dive into the world of technology and innovation.</p>
 
 
-- 📫: Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech. Reach me <a href="mailto:school.degrano@gmail.com" style="color:fe019a;">here.</a>
+- 📫: Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech <a href="mailto:school.degrano@gmail.com" style="color:fe019a;">here.</a>
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='20' target='_blank'>](https://discord.gg/KpET2wPD) &nbsp;
 [<a href="mailto:school.degrano@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20' target='_blank'>]()-->
@@ -28,7 +28,7 @@
 
 <br>
 <div> 
-  <h2 align="center">Languages and Tools</h2>
+  <h3 align="center">Languages and Tools</h3>
 <h4 align="left">Front-end</h4>
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=12)](https://skillicons.dev)<br>
@@ -47,6 +47,7 @@
 
 </div>
 
+<!--
 <div align="center">
  
 <h2 align="center">Reach me at </h2>
@@ -55,6 +56,8 @@
 [<a href="mailto:school.degrano@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' target='_blank'>]()
 
 </div>
+
+-->
 
 ![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
 
