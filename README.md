@@ -28,29 +28,6 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-<style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        h4 {
-            margin: 0;
-            text-align: center;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-    
 
 <h2 align="center">Skills and Tools Used</h2>
     <table>
@@ -62,7 +39,7 @@
                 <th><h4>Photo Editing</h4></th>
             </tr>
         </thead>
-        <tbody>
+        <tbody align="center">
             <tr>
                 <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=5" alt="Front-end Skills"></a></td>
                 <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=5" alt="Back-end and Database Skills"></a></td>
