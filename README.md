@@ -30,7 +30,7 @@
 
 
 <h2 align="center">Skills and Tools Used</h2>
-<table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
+<table style="width: 100%; border-collapse: collapse; margin: 0 auto; margin-left: auto; margin-right: auto;">
     <thead>
         <tr>
             <th style="text-align: center;"><h4>Front-end</h4></th>
