@@ -26,10 +26,43 @@
 
 - ⚡ When I’m not coding, you can find me jogging, boxing, reading a book in a library, playing different instruments like guitar, ukulele, and piano. 
 
-<br>
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+<table>
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Detail 1</th>
+                <th>Detail 2</th>
+                <th>Detail 3</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Item A</td>
+                <td>Description 1</td>
+                <td>Description 2</td>
+                <td>Description 3</td>
+            </tr>
+            <tr>
+                <td>Item B</td>
+                <td>Description 4</td>
+                <td>Description 5</td>
+                <td>Description 6</td>
+            </tr>
+            <tr>
+                <td>Item C</td>
+                <td>Description 7</td>
+                <td>Description 8</td>
+                <td>Description 9</td>
+            </tr>
+        </tbody>
+    </table>
+    
 <div> 
   <h2 align="center">Skills and Tools Used</h2>
-<h4 align="left">Front-end</h4>
+
+ <h4 align="left">Front-end</h4>
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=5)](https://skillicons.dev)<br>
 
