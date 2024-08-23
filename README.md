@@ -28,33 +28,22 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-<table>
+<h2 align="center">Skills and Tools Used</h2>
+    <table>
         <thead>
             <tr>
-                <th>Category</th>
-                <th>Detail 1</th>
-                <th>Detail 2</th>
-                <th>Detail 3</th>
+                <th><h4>Front-end</h4></th>
+                <th><h4>Back-end and Database</h4></th>
+                <th><h4>Tools Used</h4></th>
+                <th><h4>Photo Editing</h4></th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Item A</td>
-                <td>Description 1</td>
-                <td>Description 2</td>
-                <td>Description 3</td>
-            </tr>
-            <tr>
-                <td>Item B</td>
-                <td>Description 4</td>
-                <td>Description 5</td>
-                <td>Description 6</td>
-            </tr>
-            <tr>
-                <td>Item C</td>
-                <td>Description 7</td>
-                <td>Description 8</td>
-                <td>Description 9</td>
+                <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=5" alt="Front-end Skills"></a></td>
+                <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=5" alt="Back-end and Database Skills"></a></td>
+                <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,sublime,vscode,&theme=dark&perline=5" alt="Tools Used"></a></td>
+                <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=5" alt="Photo Editing"></a></td>
             </tr>
         </tbody>
     </table>
