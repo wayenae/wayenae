@@ -38,6 +38,7 @@
 <h2 align="center">Reach me at </h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40' target='_blank'>](https://discord.gg/KpET2wPD)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' target='_blank'>](school.degrano@gmail.com)
 
 </div>
 
