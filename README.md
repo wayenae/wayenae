@@ -13,9 +13,9 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me <br>
 
-Kamusta fellow coder! I'm **Yna**, an IT student eager to dive into the world of technology and innovation.
+<p>Kamusta fellow coder! I'm **Yna**, an IT student eager to dive into the world of technology and innovation.</p></h2>
 <br>
 
 ### 🤝 Let's Connect
