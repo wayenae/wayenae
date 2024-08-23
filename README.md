@@ -3,6 +3,17 @@
   <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
 </p>
 
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Hi+Peeps!;I'm+Yna+;A+Web+Developer;Let's+Learn+Together!+&center=true&size=30&color=fe019a">
+  </a>
+</h1>
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+
 <!--## Hi there 👋
 
 
