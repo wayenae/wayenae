@@ -13,6 +13,28 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
+<div> 
+  <h2 align="center">Languages and Tools</h2>
+<h4 align="left">Front-end</h4>
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=12)](https://skillicons.dev)<br>
+
+<h4 align="left">Back-end and Database</h4>
+
+  [![My Skills](https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=12)](https://skillicons.dev)<br>
+
+<h4 align="left">Tools Used</h4>
+  
+  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,sublime,vscode,&theme=dark&perline=12)](https://skillicons.dev)<br>
+
+<h4 align="left">Photo Editing</h4>
+  
+  [![My Skills](https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=12)](https://skillicons.dev)
+
+</div>
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 
 <!--## Hi there 👋
 
