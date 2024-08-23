@@ -31,7 +31,7 @@
   <h2 align="center">Skills and Tools Used</h2>
 <h4 align="left">Front-end</h4>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=12)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=10)](https://skillicons.dev)<br>
 
 <h4 align="left">Back-end and Database</h4>
 
