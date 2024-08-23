@@ -35,7 +35,7 @@
 
 <h1 align="center">Reach me at <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/KpET2wPD)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40' target="_blank">](https://discord.gg/KpET2wPD)
 
 </h1>
 
