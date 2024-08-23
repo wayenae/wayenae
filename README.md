@@ -28,6 +28,30 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        h4 {
+            margin: 0;
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+    
+
 <h2 align="center">Skills and Tools Used</h2>
     <table>
         <thead>
@@ -48,7 +72,8 @@
         </tbody>
     </table>
     
-<div> 
+ ![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)   
+<!--<div> 
   <h2 align="center">Skills and Tools Used</h2>
 
  <h4 align="left">Front-end</h4>
@@ -67,9 +92,9 @@
   
   [![My Skills](https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=5)](https://skillicons.dev)
 
-</div>
+</div>-->
 
-![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
+
 
 <!--
 <div align="center">
