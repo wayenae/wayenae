@@ -31,19 +31,19 @@
   <h2 align="center">Skills and Tools Used</h2>
 <h4 align="left">Front-end</h4>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=10)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&theme=dark&perline=5)](https://skillicons.dev)<br>
 
 <h4 align="left">Back-end and Database</h4>
 
-  [![My Skills](https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=12)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=django,py,c,cpp,java,eclipse,php,dotnet,mysql,&theme=dark&perline=5)](https://skillicons.dev)<br>
 
 <h4 align="left">Tools Used</h4>
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,sublime,vscode,&theme=dark&perline=12)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,sublime,vscode,&theme=dark&perline=5)](https://skillicons.dev)<br>
 
 <h4 align="left">Photo Editing</h4>
   
-  [![My Skills](https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=12)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
