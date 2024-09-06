@@ -18,13 +18,13 @@
 <p align="justify">Kamusta fellow coder! I'm Yna, an IT student eager to dive into the world of technology and innovation.</p>
 
 
-- 📫 Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech <a href="mailto:school.degrano@gmail.com" style="color:fe019a;">here.</a>
+- Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech <a href="mailto:school.degrano@gmail.com" style="color:fe019a;">here.</a>
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='20' target='_blank'>](https://discord.gg/KpET2wPD) &nbsp;
 [<a href="mailto:school.degrano@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20' target='_blank'>]()-->
 
 
-- ⚡ When I’m not coding, you can find me jogging, boxing, reading a book in a library, playing different instruments like guitar, ukulele, and piano. 
+- When I’m not coding, you can find me jogging, boxing, reading a book in a library, playing different instruments like guitar, ukulele, and piano. 
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
@@ -35,7 +35,7 @@
             <tr>
                 <th><h4>Front-end</h4></th>
                 <th><h4>Back-end and Database</h4></th>
-                <th><h4>Tools Used</h4></th>
+                <th><h4>Other Tools</h4></th>
                 <th><h4>Photo Editing</h4></th>
             </tr>
         </thead>
