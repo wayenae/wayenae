@@ -15,7 +15,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="justify">Kamusta fellow coder! I'm Yna, an IT student eager to dive into the world of technology and innovation.</p>
+<p align="center">Kamusta fellow coder! I'm Yna, an IT student eager to dive into the world of technology and innovation.</p>
 
 
 - Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech <a href="mailto:school.degrano@gmail.com" style="color:fe019a;">here.</a>
