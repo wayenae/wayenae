@@ -7,13 +7,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <marquee><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Hi+Peeps!;I'm+Yna+;A+Web+Developer;Let's+Learn+Together!+&center=true&size=30&color=fe019a"> </marquee>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Hi+Peeps!;I'm+Yna+;A+Web+Developer;Let's+Learn+Together!+&center=true&size=30&color=fe019a">
   </a>
 </div>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-<h2 align="center">About Me </h2>
+<h2 align="center"><marquee>About Me </marquee></h2>
 
 <p align="justify">Kamusta fellow coder! I'm Yna, an IT student eager to dive into the world of technology and innovation.</p>
 
