@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Hi+Peeps!;I'm+Yna+;A+Web+Developer;Let's+Learn+Together!+&center=true&size=30&color=fe019a">
+    <marquee><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Hi+Peeps!;I'm+Yna+;A+Web+Developer;Let's+Learn+Together!+&center=true&size=30&color=fe019a"> </marquee>
   </a>
 </div>
 
