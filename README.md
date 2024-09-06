@@ -3,7 +3,6 @@
   <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
 </p>
 
-$${\color{red}Red}$$
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
@@ -14,6 +13,8 @@ $${\color{red}Red}$$
 </div>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+$${\color{lightgreen}Red}$$
 
 <h2 align="center">About Me</h2>
 
