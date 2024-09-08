@@ -37,7 +37,7 @@
         <thead>
             <tr>
                 <th><h4>Front-end</h4></th>
-                <th><h4>Back-end and Database</h4></th>
+                <th><h4>Back-end / Database</h4></th>
                 <th><h4>Other Tools</h4></th>
                 <th><h4>Photo Editing</h4></th>
             </tr>
