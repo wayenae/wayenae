@@ -27,7 +27,7 @@
 [<a href="mailto:school.degrano@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20' target='_blank'>]()-->
 
 
-- You can find me reading a book in a library or playing different instruments like guitar, ukulele, and piano when I'm not coding
+<!--- You can find me reading a book in a library or playing different instruments like guitar, ukulele, and piano when I'm not coding-->
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
