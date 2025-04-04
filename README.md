@@ -20,7 +20,7 @@
 
 <p align="center">Kamusta fellow coder! I'm Yna, an IT eager to dive into the world of technology and innovation.</p>
 
-<p align="center">Feel free to reach out if you want to collaborate on a project, discuss ideas, or just chat about tech <a href="mailto:school.degrano@gmail.com" style="color:fe019a;">here.</a></p>
+<p align="center">Feel free to reach out if you want to collaborate on a project or discuss ideas <a href="mailto:school.degrano@gmail.com" style="color:fe019a;">here.</a></p>
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='20' target='_blank'>](https://discord.gg/KpET2wPD) &nbsp;
 [<a href="mailto:school.degrano@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20' target='_blank'>]()-->
