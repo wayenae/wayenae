@@ -45,7 +45,7 @@
             <tr>
                 <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap,&theme=dark&perline=3" alt="Front-end Skills"></a></td>
                 <td style="text-align: center;"><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,py,c,cpp,java,php,dotnet,mysql,mongodb,&theme=dark&perline=3" alt="Back-end and Database Skills"></a></td>
-                <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,eclipse,sublime,vscode,&theme=dark&perline=3" alt="Tools Used"></a></td>
+                <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,bash,visualstudio,pycharm,eclipse,sublime,vscode,&theme=dark&perline=3" alt="Tools Used"></a></td>
                 <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=2" alt="Photo Editing"></a></td>
             </tr>
         </tbody>
