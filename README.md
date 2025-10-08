@@ -36,20 +36,43 @@
         <thead>
             <tr>
                 <th><h4>Front-end</h4></th>
-                <th><h4>Back-end / Database</h4></th>
-                <th><h4>Other Tools</h4></th>
-                <th><h4>Photo Editing</h4></th>
+                <th><h4>Back-end & Databases</h4></th>
+                <th><h4>Frameworks & Libraries</h4></th>
+                <th><h4>Photo Editing & Other Tools</h4></th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap,&theme=dark&perline=3" alt="Front-end Skills"></a></td>
-                <td style="text-align: center;"><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,py,c,cpp,java,php,dotnet,mysql,mongodb,&theme=dark&perline=3" alt="Back-end and Database Skills"></a></td>
-                <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,bash,visualstudio,pycharm,eclipse,sublime,vscode,&theme=dark&perline=3" alt="Tools Used"></a></td>
-                <td style="text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=2" alt="Photo Editing"></a></td>
+               <!-- Front-end -->
+               <td style="text-align: center;"><p align="center">
+                <a href="https://go-skill-icons.vercel.app/">
+                 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,&theme=dark&perline=3" alt="Front-end Skills">
+                </a></p>
+               </td>
+                <!-- Back-end / Database -->
+                <td style="text-align: center;"><p align="center">
+                  <a href="https://go-skill-icons.vercel.app/">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,php,c,cpp,mysql,mongodb,&theme=dark&perline=3" alt="Back-end and Database Skills">
+                  </a></p>
+                </td>
+                <!-- Frameworks & Libraries -->
+                   <td style="text-align: center;"><p align="center">
+                     <a href="https://go-skill-icons.vercel.app/">
+                       <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwindcss,chartjs,bootstrap,django,codeigniter,dotnet,&theme=dark&perline=3" alt="Frameworks and Libraries">
+                     </a></p>
+                   </td>
+                         <!-- Photo Editing and Other Tools-->
+                   <td style="text-align: center;"><p align="center">
+                     <a href="https://go-skill-icons.vercel.app/">
+                       <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,photoshop,lightroom,git,github,gitbash,visualbasic,visualstudio,pycharm,eclipse,sublime,vscode,dreamweaver,&theme=dark&perline=3" alt="Photo Editing and Other Tools">
+                     </a></p>
+                   </td>
             </tr>
         </tbody>
     </table>
+<!--
+    https://skillicons.dev
+    https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=2"-->
 
 ![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
 
